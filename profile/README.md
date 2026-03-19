@@ -27,4 +27,4 @@ Whether you are a seasoned engineer or just starting your journey, your perspect
 
 -----
 
-[**Explore Projects**](https://github.com/Open-Core-Lab) • [**Contribute**](https://www.google.com/search?q=https://github.com/Open-Core-Lab/.github/blob/main/CONTRIBUTING.md)
+[**Explore Projects**](https://github.com/orgs/Open-Core-Lab/projects?query=is%3Aopen) • [**Contribute**](https://github.com/orgs/Open-Core-Lab/people)
