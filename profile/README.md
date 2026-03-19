@@ -19,7 +19,7 @@ Whether you are a seasoned engineer or just starting your journey, your perspect
 
 ### 🌱 Get Started
 
-1.  Explore our [Repositories](https://github.com/Open-Core-Lab).
+1.  Explore our [Repositories](https://github.com/orgs/Open-Core-Lab/repositories).
 2.  Look for `good first issue` labels.
 3.  Join the conversation in our Discussions.
 
